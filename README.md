@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de texto com arquivo README 🚀
 
- [<img src="./Animação.gif">]
+ <img src="./Animação.gif">
 
 ## Tecnologias utilizadas
 - HTML
